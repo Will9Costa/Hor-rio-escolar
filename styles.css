@@ -1,0 +1,213 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: "Montserrat", sans-serif;
+    background: #1D2059;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #1D2059;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+main {
+    padding: 20px;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
+.dias-semana {
+    list-style-type: none;
+    padding: 0px;       
+}
+
+.dias-semana li {
+    display: flex;
+    margin-bottom: 15px;
+    border: 1px solid #F2B807; 
+    height: 30px;
+    align-items: center;
+    justify-content: center; 
+    width: 200px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+.dias-semana a {
+    color: white;
+    text-decoration: none;
+}
+.dias-semana a:hover {
+    color: #F2B807;
+}
+
+.rodapé {
+    padding: 65px;
+}
+
+.inicio {
+    
+    padding: 10px 20px;
+    background-color: #F2B807;
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 0 auto;   
+}
+
+.inicio:hover {
+    background-color: #004085;
+}
+
+.btn {
+    display: block;
+    padding: 10px 20px;
+    background-color: #F2B807;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 0 auto;   
+}
+.btn:hover {
+    background-color: #004085;
+}
+footer {
+    background-color: #8C1822;
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+.dia-segunda ul {
+    color: white;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.dia-segunda li {
+    margin-bottom: 15px;
+}
+
+.dia-segunda a {
+    display: flex;
+    margin-top: 50px;
+    
+}
+
+.dia-segunda footer {
+    padding: 20px;
+}
+
+.dia-terça ul {
+    color: white;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.dia-terça li {
+    margin-bottom: 15px;
+}
+.dia-terça a {
+    display: flex;
+    margin-top: 50px;
+}
+
+.dia-terça footer {
+    padding: 30px
+}
+
+.dia-quarta ul {
+    color: white;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.dia-quarta li {
+    margin-bottom: 15px;
+}
+.dia-quarta a {
+    display: flex;
+    margin-top: 50px;
+}
+
+.dia-quarta footer {
+    padding: 30px
+}                                                                                       
+
+.dia-quinta ul {
+    color: white;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.dia-quinta li {
+    margin-bottom: 15px;
+}
+.dia-quinta a {
+    display: flex;
+    margin-top: 50px;
+}
+
+.dia-quinta footer {
+    padding: 30px
+} 
+
+.dia-sexta ul {
+    color: white;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.dia-sexta li {
+    margin-bottom: 15px;
+}
+.dia-sexta a {
+    display: flex;
+    margin-top: 50px;
+}
+
+.dia-sexta footer {
+    padding: 40px
+} 
+
+.dia-sabado ul {
+    color: white;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.dia-sabado li {
+    margin-bottom: 15px;
+}
+.dia-sabado a {
+    display: flex;
+    margin-top: 50px;
+}
+
+.dia-sabado footer {
+    padding: 15px
+} 
+
+
+
+   
+
+    
+    
+
+   
+
+
